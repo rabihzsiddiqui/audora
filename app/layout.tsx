@@ -10,13 +10,13 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "audoRa - Browser-based Audio Extractor",
+  title: "audoRa - browser-based audio extractor",
   description:
-    "Extract MP3 audio from a video file, locally in your browser. No uploads, no servers.",
+    "extract MP3 audio from a video file, locally in your browser. no uploads, no servers.",
   keywords: ["audio extractor", "mp3 converter", "browser ffmpeg", "local conversion"],
   openGraph: {
     title: "audoRa",
-    description: "Extract MP3 audio from a video file, locally in your browser.",
+    description: "extract MP3 audio from a video file, locally in your browser.",
     type: "website",
   },
 };
